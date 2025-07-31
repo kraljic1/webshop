@@ -1,6 +1,6 @@
 # Luxury Textile Webshop
 
-A modern e-commerce webshop built with Next.js Commerce, React, and Supabase, inspired by luxury textile brands like Joshua Ellis. The site features product categories (Scarves, Stoles, Homeware, Classic Collection), an "Our Story" page, and a secure checkout system powered by Stripe. This project is optimized for development with Cursor and can be hosted on Netlify or Vercel.
+A modern e-commerce webshop built with Next.js Commerce, React, and Supabase, inspired by luxury textile brands like Joshua Ellis. The site features product categories (Scarves, Stoles, Homeware, Classic Collection), an "Our Story" page, and a secure checkout system powered by Stripe. This project can be hosted on Netlify or Vercel.
 
 ## Table of Contents
 
@@ -33,7 +33,6 @@ A modern e-commerce webshop built with Next.js Commerce, React, and Supabase, in
 - **Frontend**: React, Next.js Commerce, Tailwind CSS
 - **Backend**: Supabase (PostgreSQL, Authentication, Storage)
 - **Payments**: Stripe
-- **Development**: Cursor (recommended code editor)
 - **Deployment**: Netlify (or Vercel)
 - **Dependencies**:
   - `@stripe/stripe-js`, `@stripe/react-stripe-js` for payments
@@ -82,7 +81,6 @@ luxury-textile-webshop/
 - **Supabase Account**: Sign up at https://supabase.com
 - **Stripe Account**: Sign up at https://stripe.com
 - **Netlify CLI** (optional): For local testing and deployment (`npm install -g netlify-cli`)
-- **Cursor**: Recommended code editor for AI-assisted development
 - **Git**: For version control
 
 ## Setup Instructions
@@ -136,11 +134,6 @@ luxury-textile-webshop/
    netlify dev
    ```
    This simulates Netlify's environment locally.
-
-3. **Using Cursor**:
-   - Open the project in Cursor.
-   - Use Cursor's AI features to assist with coding (e.g., generating components, debugging API routes).
-   - Leverage Cursor's autocompletion for React and Supabase queries.
 
 ## Deployment
 
